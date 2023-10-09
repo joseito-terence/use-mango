@@ -1,0 +1,20 @@
+{
+  "name": "use-mango",
+  "version": "1.0.0",
+  "description": "A simple package that returns a mango when invoked.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joseito-terence/use-mango.git"
+  },
+  "keywords": ["mango", "fruit", "food"],
+  "author": "Joseito Fernandes",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joseito-terence/use-mango/issues"
+  },
+  "homepage": "https://github.com/joseito-terence/use-mango#readme"
+}
